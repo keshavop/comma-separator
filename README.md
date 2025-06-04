@@ -14,6 +14,7 @@ Visit the application at:
 - [https://comma-seperator.vercel.app/](https://comma-seperator.vercel.app/)
 - [https://comma-separator.netlify.app/](https://comma-separator.netlify.app/)
 - [https://comma-separator-dusky.vercel.app/](https://comma-separator-dusky.vercel.app/)
+- [https://tinyurl.com/comma-sep/](https://tinyurl.com/comma-sep/)
 
 ## Features
 
