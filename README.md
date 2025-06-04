@@ -9,6 +9,12 @@ Visit the application at:
 - [Netlify Deployment](https://comma-separator.netlify.app/)
 - [Alternative Vercel Deployment](https://comma-separator-dusky.vercel.app/)
 
+## Direct Links
+
+- [https://comma-seperator.vercel.app/](https://comma-seperator.vercel.app/)
+- [https://comma-separator.netlify.app/](https://comma-separator.netlify.app/)
+- [https://comma-separator-dusky.vercel.app/](https://comma-separator-dusky.vercel.app/)
+
 ## Features
 
 - **Real-time Formatting**: Numbers are formatted instantly as you type or paste them
