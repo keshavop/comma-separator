@@ -7,7 +7,7 @@ function App() {
       <h1>Comma Seperator</h1>
       <NumberFormatter />
       <footer className="app-footer">
-        <p>🚀 Built with <span className="vibe-text">vibe check passed</span></p>
+        <p>🚀 Built with <span className="vibe-text">vibe coding</span></p>
       </footer>
     </div>
   )
