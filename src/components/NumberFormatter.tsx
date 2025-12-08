@@ -66,10 +66,10 @@ const NumberFormatter = () => {
     }
   };
 
-  const handleClear = () => {
-    setInput('');
-    triggerToast('Input cleared!');
-  }
+  // const handleClear = () => {
+  //   setInput('');
+  //   triggerToast('Input cleared!');
+  // }
 
   return (
     <div className="three-column-layout">
