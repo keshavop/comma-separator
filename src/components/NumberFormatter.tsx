@@ -120,12 +120,12 @@ const NumberFormatter = () => {
           />
         </div>
 
-        {/* <button onClick={handleCopy} className="copy-button">
+        {/* {/* <button onClick={handleCopy} className="copy-button">
           <span>Copy Output</span>
-        </button>
-        <button onClick={handleClear} className="clear-button">
-          <span>Clear</span>
         </button> */}
+        {/* <button onClick={handleClear} className="clear-button"> */}
+          {/* <span>Clear</span> */}
+        {/* </button> */}
       </div>
 
       {/* Right Section - Output */}
