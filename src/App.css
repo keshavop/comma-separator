@@ -110,7 +110,8 @@ h1::after {
 .three-column-layout {
   display: flex;
   width: 100%;
-  min-height: calc(100vh - 120px);
+  min-height: calc(100vh - 250px);
+  max-height: 60vh;
   gap: 1rem;
   padding: 0 1rem;
   max-width: 1800px;
@@ -120,7 +121,7 @@ h1::after {
 
 /* Left Section - Input */
 .input-section {
-  flex: 1.2;
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -133,10 +134,10 @@ h1::after {
 
 /* Middle Section - Controls */
 .controls-section {
-  flex: 0.6;
+  flex: 0.5;
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1rem;
   align-items: center;
   justify-content: center;
   padding: 1rem;
@@ -144,7 +145,7 @@ h1::after {
 
 /* Right Section - Output */
 .output-section {
-  flex: 1.2;
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -183,7 +184,7 @@ h1::after {
 .input-box,
 .output-box {
   width: 100%;
-  min-height: 200px;
+  min-height: 100px;
   height: 100%;
   padding: 1rem;
   border: 1px solid var(--border-color);
@@ -337,7 +338,7 @@ h1::after {
 
   .input-section,
   .output-section {
-    min-height: 350px;
+    min-height: 200px;
     height: auto;
   }
 
